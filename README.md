@@ -13,8 +13,8 @@ native Android mobile app.
 ## Team
 
 Role & Name 
-Developer / Project Manager | Maselelo Alicia Mabelebele 
-Business Analyst | Lufuno Makhado 
+Developer / Project Manager | Maselelo Alicia Mabelebele (ST10436039)
+Business Analyst | Lufuno Makhado (ST10442357)
 Technical Lead / QA | Tiyase Damaris Nteseng (ST10445279) 
 
 ## Tech Stack
