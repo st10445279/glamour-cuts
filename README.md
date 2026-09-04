@@ -1,5 +1,3 @@
-# glamour-cuts
-
 # Glamour Cuts
 
 A salon booking and management system built for XISD5319 (Group 19).
